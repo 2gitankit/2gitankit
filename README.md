@@ -34,7 +34,6 @@ In my free time, I love to **create food videos**. Capturing the essence of cook
 - Incident Reporting
 - Crisis Management
 
----
 <img src="https://github.com/2githubankit/2githubankit/assets/144583590/ef10287a-2f99-4b57-a6df-985b0a3cb9ca" alt="Side Image" align="right" width="200">
 
 ### 🍳 Culinary Skills
@@ -63,7 +62,9 @@ Feel free to reach out for collaborations, discussions, or just a friendly chat.
 
 **"Exploring the intersection of data, security, and culinary arts."**
 
-![Banner Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile)
+<img width="1031" alt="Screenshot 2024-05-18 at 3 28 33 AM" src="https://github.com/2githubankit/2githubankit/assets/144583590/e4317bbb-3ebc-4aef-9917-a0dce4c6c387">
+
+
 
 <!---
 2githubankit/2githubankit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
