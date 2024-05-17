@@ -29,12 +29,12 @@ In my free time, I love to **create food videos**. Capturing the essence of cook
 
 
 ### 🛡 Security &amp; Loss Prevention
+<img src="https://github.com/2githubankit/2githubankit/assets/144583590/ef10287a-2f99-4b57-a6df-985b0a3cb9ca" alt="Side Image" align="right" width="300">
+
 - Risk Assessment
 - Surveillance Techniques
 - Incident Reporting
 - Crisis Management
-
-<img src="https://github.com/2githubankit/2githubankit/assets/144583590/ef10287a-2f99-4b57-a6df-985b0a3cb9ca" alt="Side Image" align="right" width="200">
 
 ### 🍳 Culinary Skills
 - Recipe Development
