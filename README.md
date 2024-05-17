@@ -35,6 +35,7 @@ In my free time, I love to **create food videos**. Capturing the essence of cook
 - Crisis Management
 
 ---
+<img src="https://github.com/2githubankit/2githubankit/assets/144583590/ef10287a-2f99-4b57-a6df-985b0a3cb9ca" alt="Side Image" align="right" width="200">
 
 ### 🍳 Culinary Skills
 - Recipe Development
@@ -46,6 +47,7 @@ In my free time, I love to **create food videos**. Capturing the essence of cook
 
 ---
 
+
 ## 📫 Get in Touch
 - **Email:** [2mailankit@gmail.com](mailto:2mailankit@gmail.com)
 - **LinkedIn:** [Ankit Basetia](https://www.linkedin.com/in/ankit-basetia-814362244)
@@ -56,8 +58,6 @@ In my free time, I love to **create food videos**. Capturing the essence of cook
 
 ## 🚀 Let's Collaborate
 Feel free to reach out for collaborations, discussions, or just a friendly chat. I'm always open to connecting with like-minded individuals.
-
-![Data science](https://github.com/2githubankit/2githubankit/assets/144583590/4b847c7a-b986-47e9-a3c0-c5cb2f634683)
 
 ---
 
