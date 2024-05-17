@@ -1,4 +1,4 @@
-# Hi there! 👋 Welcome to My GitHub Profile <img src="https://github.com/2githubankit/2githubankit/assets/144583590/ca342e22-9446-4921-8792-ee2a7fbb2843" alt="Side Image" align="middle" width="100">
+# Hi there! 👋 Welcome to My GitHub Profile <img src="https://github.com/2githubankit/2githubankit/assets/144583590/ca342e22-9446-4921-8792-ee2a7fbb2843" alt="Side Image" align="middle" width="100"> 
 
 ## 👨‍💼 About Me
 
