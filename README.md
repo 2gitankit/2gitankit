@@ -13,7 +13,7 @@ I'm **[Ankit]**, an Investigation Specialist with over three years of experience
 
 ## Get in touch
 - **Email:** [2mailankit@gmail.com](mailto:2mailankit@gmail.com)
-- **LinkedIn:** [Ankit Basetia](www.linkedin.com/in/ankit-basetia-814362244)
+- **LinkedIn:** [Ankit Basetia](https://www.linkedin.com/in/ankitbasetia)
 - **Instagram:** [@ankitbasetia](https://www.instagram.com/ankitbasetia) (Follow my food adventures!)
 
 
