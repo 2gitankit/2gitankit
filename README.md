@@ -44,9 +44,9 @@
 ### 🌟 Poetic Ramblings
 
 ```
-"बेड़ियाँ हवा की और सलाखें पारदर्शी, मन विषमता का अनुयायी..
+"बेड़ियाँ हवा की और सलाखें पारदर्शी, मन विषमता का अनुयायी.."
 
-"Shackles of the wind, and bars transparent, a mind that follows the path of dissonance, inherent..
+"Shackles of the wind and bars transparent, a mind that follows the path of dissonance, inherent.."
 ```
 
 ### 🚀 Let's Build Something Together
