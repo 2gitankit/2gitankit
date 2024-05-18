@@ -1,69 +1,56 @@
-# Hi there! 👋 Welcome to My GitHub Profile <img src="https://github.com/2githubankit/2githubankit/assets/144583590/ca342e22-9446-4921-8792-ee2a7fbb2843" alt="Side Image" align="middle" width="100"> 
+# Welcome to My GitHub Profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="45" height="45" /> <img src="https://github.com/2githubankit/2githubankit/assets/144583590/ca342e22-9446-4921-8792-ee2a7fbb2843" alt="Side Image" align="right" width="400"> 
 
-## 👨‍💼 About Me
+### 📒 About Me
+- 🔎 Security and Loss Prevention Specialist **@Amazon**
+- 🍅 Crafting Culinary Video Logs on **[Instagram](https://www.instagram.com/ankitbasetia)**
+- 🧭 Exploring the realms of data
+- 📐 Building stuff from scratch as a hobby
+- 🌱 Soul of a poet; Mind of an inventor
+- 🤝 Let's meet/talk about: Algorithms, Food, Skating, Politics
 
-I'm a **Security and Loss Prevention Specialist** with a budding passion for **Data Science**. My professional journey is a blend of protecting assets and exploring the vast landscapes of data. 
+### 📊 Data Science Stats
 
-In my free time, I love to **create food videos**. Capturing the essence of cooking and sharing it with the world brings me immense joy. 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-000?&logo=scikit-learn)
 
----
+### 📟 Tools of the Trade
 
-### 🔍 My Interests
-- **Data Science**: Diving into data, uncovering patterns, and making data-driven decisions.
-- **Security &amp; Loss Prevention**: Ensuring safety and minimizing loss.
-- **Culinary Arts**: Experimenting with recipes and creating mouth-watering dishes.
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
+![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-000?&logo=amazon-redshift)
+![VBA](https://img.shields.io/badge/-VBA-000?&logo=microsoft)
+![Git](https://img.shields.io/badge/-Git-000?logo=git)
+![Slack](https://img.shields.io/badge/-Slack-000?&logo=slack)
+![Quip](https://img.shields.io/badge/-Quip-000?&logo=quip)
 
----
+### 🎥 Editing Softwares
 
-## 🛠 Skills &amp; Tools
+![Sony](https://img.shields.io/badge/-Sony%20a6300-000?&logo=sony)
+![FCPX](https://img.shields.io/badge/-Final%20Cut%20Pro%20X-000?&logo=apple)
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-000?&logo=adobe-premiere-pro)
+![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-000?&logo=da-vinci)
 
-### 📊 Data Science
-- Python
-- Pandas &amp; NumPy
-- Scikit-Learn
-- Jupyter Notebooks
-- Data Visualization (Matplotlib, Seaborn)
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white)
+### 📫 Socials
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/ankit-basetia-814362244)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram)](https://www.instagram.com/ankitbasetia)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mailto:2mailankit@gmail.com)
 
-### 🛡 Security &amp; Loss Prevention
-<img src="https://github.com/2githubankit/2githubankit/assets/144583590/ef10287a-2f99-4b57-a6df-985b0a3cb9ca" alt="Side Image" align="right" width="300">
+### 🌟 Poetic Ramblings
 
-- Risk Assessment
-- Surveillance Techniques
-- Incident Reporting
-- Crisis Management
+```
+"बेड़ियाँ हवा की और सलाखें पारदर्शी, मन विषमता का अनुयायी..
 
-### 🍳 Culinary Skills
-- Recipe Development
-- Food Styling
-- Video Editing (Final Cut Pro)
+"Shackles of the wind, and bars transparent, a mind that follows the path of dissonance, inherent..
+```
 
-![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-999999?style=for-the-badge&amp;logo=final-cut-pro&amp;logoColor=white)
-
-
----
-
-
-## 📫 Get in Touch
-- **Email:** [2mailankit@gmail.com](mailto:2mailankit@gmail.com)
-- **LinkedIn:** [Ankit Basetia](https://www.linkedin.com/in/ankit-basetia-814362244)
-- **Instagram:** [@ankitbasetia](https://www.instagram.com/ankitbasetia) (Follow my food adventures!)
-
-
----
-
-## 🚀 Let's Collaborate
+### 🚀 Let's Build Something Together
 Feel free to reach out for collaborations, discussions, or just a friendly chat. I'm always open to connecting with like-minded individuals.
-
----
-
-**"Exploring the intersection of data, security, and culinary arts."**
-
-<img width="1031" alt="Screenshot 2024-05-18 at 3 28 33 AM" src="https://github.com/2githubankit/2githubankit/assets/144583590/e4317bbb-3ebc-4aef-9917-a0dce4c6c387">
-
 
 
 <!---
