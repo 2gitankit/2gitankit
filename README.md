@@ -1,4 +1,5 @@
-# Welcome to My GitHub Profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="45" height="45" /> <img src="https://github.com/2githubankit/2githubankit/assets/144583590/ca342e22-9446-4921-8792-ee2a7fbb2843" alt="Side Image" align="right" width="400"> 
+# Welcome to My GitHub Profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="45" height="45" /> 
+<img src="https://github.com/2githubankit/2githubankit/blob/main/Hey%2C%20I'm%20ankit.gif" alt="Side Image" align="right" width="400"> 
 
 ### 📒 About Me
 - 🔎 Security and Loss Prevention Specialist **@Amazon**
